@@ -1,14 +1,5 @@
 <h1 align="center">Hey there! 👋 Welcome to my GitHub</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-Hofstra-blueviolet?style=flat-square" alt="Generative AI- Hofstra" />
-<!--   <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-orange?style=flat-square&logo=leetcode" alt="Problem Solving LeetCode" /> -->
-</p>
-
-
-
----
-
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
